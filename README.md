@@ -16,7 +16,7 @@ the source of the dataset is : https://www.kaggle.com/datasets/muhammadtalharaso
 [matplotlib](https://matplotlib.org/)  
 [seaborn](https://seaborn.pydata.org/)
 
-##Walk Through
+## Walk Through
 1. Importing the data  
 starting with reading the .csv file, recognising the columns to be used and checking for any  missing values  
 
